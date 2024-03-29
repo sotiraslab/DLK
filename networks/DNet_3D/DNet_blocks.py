@@ -46,7 +46,7 @@ class DLK(nn.Module):
         output = output + x
         return output
 
-class DLkModule(nn.Module):
+class DLKModule(nn.Module):
     def __init__(self, dim):
         super().__init__()
 
@@ -68,7 +68,7 @@ class DLKBlock(nn.Module):
     def __init__(self, dim, drop_path=0.):
         super().__init__()
         self.norm_layer = nn.LayerNorm(dim, eps=1e-6)
-        self.attn = DLkModule(dim)
+        self.attn = DLKModule(dim)
         self.mlp = Mlp(dim)
         self.drop_path = DropPath(drop_path) if drop_path > 0. else nn.Identity()
         layer_scale_init_value = 1e-6         
