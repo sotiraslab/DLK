@@ -9,16 +9,16 @@ Methods
 
 Citation
 =======
-If you use D-net in your research, please cite our work.
+If you use D-net in your research, please consider to cite our work.
 
-'''
+```
 @article{yang2024d,
   title={D-Net: Dynamic Large Kernel with Dynamic Feature Fusion for Volumetric Medical Image Segmentation},
   author={Yang, Jin and Qiu, Peijie and Zhang, Yichi and Marcus, Daniel S and Sotiras, Aristeidis},
   journal={arXiv preprint arXiv:2403.10674},
   year={2024}
 }
-'''
+```
 
 
 Question
