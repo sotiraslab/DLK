@@ -7,6 +7,8 @@ Hierarchical transformers have achieved significant success in medical image seg
 Methods
 =======
 
+![methods](Figures/DNet.png)
+
 Citation
 =======
 If you use D-net in your research, please consider to cite our work.
