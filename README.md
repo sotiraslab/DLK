@@ -14,11 +14,17 @@ Citation
 If you use D-net in your research, please consider to cite our work.
 
 ```
-@article{yang2024d,
-  title={D-Net: Dynamic Large Kernel with Dynamic Feature Fusion for Volumetric Medical Image Segmentation},
-  author={Yang, Jin and Qiu, Peijie and Zhang, Yichi and Marcus, Daniel S and Sotiras, Aristeidis},
-  journal={arXiv preprint arXiv:2403.10674},
-  year={2024}
+@article{YANG2026108837,
+title = {D-Net: Dynamic large kernel with dynamic feature fusion for volumetric medical image segmentation},
+journal = {Biomedical Signal Processing and Control},
+volume = {113},
+pages = {108837},
+year = {2026},
+issn = {1746-8094},
+doi = {https://doi.org/10.1016/j.bspc.2025.108837},
+url = {https://www.sciencedirect.com/science/article/pii/S1746809425013485},
+author = {Jin Yang and Peijie Qiu and Yichi Zhang and Daniel S. Marcus and Aristeidis Sotiras},
+keywords = {Large convolutional kernel, Dynamic convolution, Channel mixer, Vision transformer, Medical image segmentation}
 }
 ```
 
