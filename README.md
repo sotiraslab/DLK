@@ -1,4 +1,4 @@
-The official repo for the manuscript "D-Net: Dynamic Large Kernel with Dynamic Feature Fusion for Volumetric Medical Image Segmentation". [Arxiv](https://arxiv.org/abs/2403.10674)
+The official repo for the manuscript "D-Net: Dynamic Large Kernel with Dynamic Feature Fusion for Volumetric Medical Image Segmentation". Biomedical Signal Processing and Control. (https://www.sciencedirect.com/science/article/pii/S1746809425013485)
 
 Abstract
 =======
